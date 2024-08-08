@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 function redirectToResume() {
     // Replace 'your_resume_url.pdf' with the actual URL of your resume file
-    var resumeUrl = 'https://drive.google.com/file/d/1W3gm74UpZpymhqC52xdkjfAOPnzIwL2X/view?usp=sharing';
+    var resumeUrl = 'https://drive.google.com/file/d/1W3gm74UpZpymhqC52xdkjfAOPnzIwL2X/view?usp=sharin';
     window.location.href = resumeUrl;
 }
 function scrollToProjects() {
